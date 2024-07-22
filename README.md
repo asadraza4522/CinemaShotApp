@@ -1,4 +1,4 @@
-#CinemaShot App
+# CinemaShot App
 
 ## Installation
 
