@@ -12,8 +12,32 @@
 		13B07FBC1A68108700A75B9A /* AppDelegate.mm in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.mm */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		33A9857B19DF4B4084870A24 /* AntDesign.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E286FB3DD24B43F09B3B652C /* AntDesign.ttf */; };
+		5241AF3743DB4B0BADC91BFF /* Poppins-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 417EB9087C8D4B3A8802242A /* Poppins-Bold.ttf */; };
+		526F8B6C5B1645CA94954E59 /* Entypo.ttf in Resources */ = {isa = PBXBuildFile; fileRef = A55EE56172F04FBB9D239BC7 /* Entypo.ttf */; };
+		6BC0C02DA50940429C2226F0 /* MaterialCommunityIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 4D11C5EB44434B04A0E08DF3 /* MaterialCommunityIcons.ttf */; };
+		75696CEFD7DD4DD1B044BEBF /* Foundation.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 19CB6EC2CF12427892DB3141 /* Foundation.ttf */; };
 		7699B88040F8A987B510C191 /* libPods-CinemaSpotApp-CinemaSpotAppTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 19F6CBCC0A4E27FBF8BF4A61 /* libPods-CinemaSpotApp-CinemaSpotAppTests.a */; };
+		7ABE4C913F144DFD8FECE7FB /* Poppins-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = C3D3D4FB29E948E9ABC9FE09 /* Poppins-SemiBold.ttf */; };
+		805BB4A78FE4495CBA382611 /* Fontisto.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CF99D03D830E41C3A815E3E6 /* Fontisto.ttf */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		84643198A96D449F8E55EE06 /* Zocial.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6BBB1CA5C148492CA15BAB7F /* Zocial.ttf */; };
+		87484F575A5542B4A18AF70A /* Octicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = B29D4CA3F9A54A30B2403075 /* Octicons.ttf */; };
+		87A6600A6DFE452892D31D5F /* FontAwesome6_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = DDE1051DEC92431A879B019E /* FontAwesome6_Regular.ttf */; };
+		932EBF669BA64D11889CC42D /* FontAwesome6_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E143B397ECF74B50BFE5CB71 /* FontAwesome6_Solid.ttf */; };
+		93865FEE7DC54AFFA8DF5B41 /* Ionicons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AF7EEE84E7484215A188C262 /* Ionicons.ttf */; };
+		942EAFADFAE24076992A54C3 /* FontAwesome6_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 12DF666F1AFB40F89F7622D4 /* FontAwesome6_Brands.ttf */; };
+		9B5830C2097B4CC9ABC3D29D /* EvilIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 9C18029031BC43989F99F5E0 /* EvilIcons.ttf */; };
+		AAD324CF34CC4462957146AA /* MaterialIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3196D71C636346F3AA7F945A /* MaterialIcons.ttf */; };
+		B1DA20E9607543E180CC04CF /* FontAwesome.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 072496257F4D453FBE6E1C75 /* FontAwesome.ttf */; };
+		BDAF2D6228C9403999AD63A4 /* SimpleLineIcons.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 25316D41D7A44F0F9ECCF354 /* SimpleLineIcons.ttf */; };
+		C7484A0FE8914F96933BB523 /* FontAwesome5_Solid.ttf in Resources */ = {isa = PBXBuildFile; fileRef = AD2E27B504804839A8696F49 /* FontAwesome5_Solid.ttf */; };
+		C88132D2C0304EA5930A1799 /* Poppins-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3B92E033F3694ADC8059098F /* Poppins-Regular.ttf */; };
+		CF975DC4A69D4CC397F80053 /* Poppins-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2D66BAC0BCBC49C4ABA58523 /* Poppins-Medium.ttf */; };
+		D98A79B72A9F402DA1261359 /* FontAwesome5_Brands.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6CD31DD289804A9596546E4F /* FontAwesome5_Brands.ttf */; };
+		E433196596164589A6EB1E3C /* Feather.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FC7D0AA465EF436BB87F09C0 /* Feather.ttf */; };
+		F1BE9712683D5307D075FEE9 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 2ED538D1554855DCCA8935E7 /* PrivacyInfo.xcprivacy */; };
+		F702557638F04260AD18A59C /* FontAwesome5_Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 77E5A17656024598A8C0CC6B /* FontAwesome5_Regular.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -30,21 +54,45 @@
 		00E356EE1AD99517003FC87E /* CinemaSpotAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CinemaSpotAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* CinemaSpotAppTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = CinemaSpotAppTests.m; sourceTree = "<group>"; };
+		072496257F4D453FBE6E1C75 /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = ../assets/fonts/FontAwesome.ttf; sourceTree = "<group>"; };
+		12DF666F1AFB40F89F7622D4 /* FontAwesome6_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome6_Brands.ttf; path = ../assets/fonts/FontAwesome6_Brands.ttf; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* CinemaSpotApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CinemaSpotApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = CinemaSpotApp/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.mm */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.objcpp; name = AppDelegate.mm; path = CinemaSpotApp/AppDelegate.mm; sourceTree = "<group>"; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = CinemaSpotApp/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = CinemaSpotApp/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = CinemaSpotApp/main.m; sourceTree = "<group>"; };
-	    13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = CinemaSpotApp/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = CinemaSpotApp/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		19CB6EC2CF12427892DB3141 /* Foundation.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Foundation.ttf; path = ../assets/fonts/Foundation.ttf; sourceTree = "<group>"; };
 		19F6CBCC0A4E27FBF8BF4A61 /* libPods-CinemaSpotApp-CinemaSpotAppTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CinemaSpotApp-CinemaSpotAppTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		25316D41D7A44F0F9ECCF354 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SimpleLineIcons.ttf; path = ../assets/fonts/SimpleLineIcons.ttf; sourceTree = "<group>"; };
+		2D66BAC0BCBC49C4ABA58523 /* Poppins-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Medium.ttf"; path = "../assets/fonts/Poppins-Medium.ttf"; sourceTree = "<group>"; };
+		2ED538D1554855DCCA8935E7 /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xml; name = PrivacyInfo.xcprivacy; path = CinemaSpotApp/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		3196D71C636346F3AA7F945A /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = ../assets/fonts/MaterialIcons.ttf; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-CinemaSpotApp.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CinemaSpotApp.debug.xcconfig"; path = "Target Support Files/Pods-CinemaSpotApp/Pods-CinemaSpotApp.debug.xcconfig"; sourceTree = "<group>"; };
+		3B92E033F3694ADC8059098F /* Poppins-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Regular.ttf"; path = "../assets/fonts/Poppins-Regular.ttf"; sourceTree = "<group>"; };
+		417EB9087C8D4B3A8802242A /* Poppins-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-Bold.ttf"; path = "../assets/fonts/Poppins-Bold.ttf"; sourceTree = "<group>"; };
+		4D11C5EB44434B04A0E08DF3 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = ../assets/fonts/MaterialCommunityIcons.ttf; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-CinemaSpotApp.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CinemaSpotApp.release.xcconfig"; path = "Target Support Files/Pods-CinemaSpotApp/Pods-CinemaSpotApp.release.xcconfig"; sourceTree = "<group>"; };
 		5B7EB9410499542E8C5724F5 /* Pods-CinemaSpotApp-CinemaSpotAppTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CinemaSpotApp-CinemaSpotAppTests.debug.xcconfig"; path = "Target Support Files/Pods-CinemaSpotApp-CinemaSpotAppTests/Pods-CinemaSpotApp-CinemaSpotAppTests.debug.xcconfig"; sourceTree = "<group>"; };
 		5DCACB8F33CDC322A6C60F78 /* libPods-CinemaSpotApp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-CinemaSpotApp.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6BBB1CA5C148492CA15BAB7F /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = ../assets/fonts/Zocial.ttf; sourceTree = "<group>"; };
+		6CD31DD289804A9596546E4F /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Brands.ttf; path = ../assets/fonts/FontAwesome5_Brands.ttf; sourceTree = "<group>"; };
+		77E5A17656024598A8C0CC6B /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = ../assets/fonts/FontAwesome5_Regular.ttf; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = CinemaSpotApp/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89C6BE57DB24E9ADA2F236DE /* Pods-CinemaSpotApp-CinemaSpotAppTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CinemaSpotApp-CinemaSpotAppTests.release.xcconfig"; path = "Target Support Files/Pods-CinemaSpotApp-CinemaSpotAppTests/Pods-CinemaSpotApp-CinemaSpotAppTests.release.xcconfig"; sourceTree = "<group>"; };
+		9C18029031BC43989F99F5E0 /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = ../assets/fonts/EvilIcons.ttf; sourceTree = "<group>"; };
+		A55EE56172F04FBB9D239BC7 /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = ../assets/fonts/Entypo.ttf; sourceTree = "<group>"; };
+		AD2E27B504804839A8696F49 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Solid.ttf; path = ../assets/fonts/FontAwesome5_Solid.ttf; sourceTree = "<group>"; };
+		AF7EEE84E7484215A188C262 /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = ../assets/fonts/Ionicons.ttf; sourceTree = "<group>"; };
+		B29D4CA3F9A54A30B2403075 /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = ../assets/fonts/Octicons.ttf; sourceTree = "<group>"; };
+		C3D3D4FB29E948E9ABC9FE09 /* Poppins-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Poppins-SemiBold.ttf"; path = "../assets/fonts/Poppins-SemiBold.ttf"; sourceTree = "<group>"; };
+		CF99D03D830E41C3A815E3E6 /* Fontisto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Fontisto.ttf; path = ../assets/fonts/Fontisto.ttf; sourceTree = "<group>"; };
+		DDE1051DEC92431A879B019E /* FontAwesome6_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome6_Regular.ttf; path = ../assets/fonts/FontAwesome6_Regular.ttf; sourceTree = "<group>"; };
+		E143B397ECF74B50BFE5CB71 /* FontAwesome6_Solid.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome6_Solid.ttf; path = ../assets/fonts/FontAwesome6_Solid.ttf; sourceTree = "<group>"; };
+		E286FB3DD24B43F09B3B652C /* AntDesign.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = AntDesign.ttf; path = ../assets/fonts/AntDesign.ttf; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
+		FC7D0AA465EF436BB87F09C0 /* Feather.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Feather.ttf; path = ../assets/fonts/Feather.ttf; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +142,7 @@
 				81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */,
 				13B07FB71A68108700A75B9A /* main.m */,
 				13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */,
+				2ED538D1554855DCCA8935E7 /* PrivacyInfo.xcprivacy */,
 			);
 			name = CinemaSpotApp;
 			sourceTree = "<group>";
@@ -124,6 +173,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				A11025234ECD46388D6B6911 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -137,6 +187,36 @@
 				00E356EE1AD99517003FC87E /* CinemaSpotAppTests.xctest */,
 			);
 			name = Products;
+			sourceTree = "<group>";
+		};
+		A11025234ECD46388D6B6911 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E286FB3DD24B43F09B3B652C /* AntDesign.ttf */,
+				A55EE56172F04FBB9D239BC7 /* Entypo.ttf */,
+				9C18029031BC43989F99F5E0 /* EvilIcons.ttf */,
+				FC7D0AA465EF436BB87F09C0 /* Feather.ttf */,
+				072496257F4D453FBE6E1C75 /* FontAwesome.ttf */,
+				6CD31DD289804A9596546E4F /* FontAwesome5_Brands.ttf */,
+				77E5A17656024598A8C0CC6B /* FontAwesome5_Regular.ttf */,
+				AD2E27B504804839A8696F49 /* FontAwesome5_Solid.ttf */,
+				12DF666F1AFB40F89F7622D4 /* FontAwesome6_Brands.ttf */,
+				DDE1051DEC92431A879B019E /* FontAwesome6_Regular.ttf */,
+				E143B397ECF74B50BFE5CB71 /* FontAwesome6_Solid.ttf */,
+				CF99D03D830E41C3A815E3E6 /* Fontisto.ttf */,
+				19CB6EC2CF12427892DB3141 /* Foundation.ttf */,
+				AF7EEE84E7484215A188C262 /* Ionicons.ttf */,
+				4D11C5EB44434B04A0E08DF3 /* MaterialCommunityIcons.ttf */,
+				3196D71C636346F3AA7F945A /* MaterialIcons.ttf */,
+				B29D4CA3F9A54A30B2403075 /* Octicons.ttf */,
+				3B92E033F3694ADC8059098F /* Poppins-Regular.ttf */,
+				25316D41D7A44F0F9ECCF354 /* SimpleLineIcons.ttf */,
+				6BBB1CA5C148492CA15BAB7F /* Zocial.ttf */,
+				417EB9087C8D4B3A8802242A /* Poppins-Bold.ttf */,
+				C3D3D4FB29E948E9ABC9FE09 /* Poppins-SemiBold.ttf */,
+				2D66BAC0BCBC49C4ABA58523 /* Poppins-Medium.ttf */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		BBD78D7AC51CEA395F1C20DB /* Pods */ = {
@@ -245,6 +325,30 @@
 			files = (
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
+				F1BE9712683D5307D075FEE9 /* PrivacyInfo.xcprivacy in Resources */,
+				33A9857B19DF4B4084870A24 /* AntDesign.ttf in Resources */,
+				526F8B6C5B1645CA94954E59 /* Entypo.ttf in Resources */,
+				9B5830C2097B4CC9ABC3D29D /* EvilIcons.ttf in Resources */,
+				E433196596164589A6EB1E3C /* Feather.ttf in Resources */,
+				B1DA20E9607543E180CC04CF /* FontAwesome.ttf in Resources */,
+				D98A79B72A9F402DA1261359 /* FontAwesome5_Brands.ttf in Resources */,
+				F702557638F04260AD18A59C /* FontAwesome5_Regular.ttf in Resources */,
+				C7484A0FE8914F96933BB523 /* FontAwesome5_Solid.ttf in Resources */,
+				942EAFADFAE24076992A54C3 /* FontAwesome6_Brands.ttf in Resources */,
+				87A6600A6DFE452892D31D5F /* FontAwesome6_Regular.ttf in Resources */,
+				932EBF669BA64D11889CC42D /* FontAwesome6_Solid.ttf in Resources */,
+				805BB4A78FE4495CBA382611 /* Fontisto.ttf in Resources */,
+				75696CEFD7DD4DD1B044BEBF /* Foundation.ttf in Resources */,
+				93865FEE7DC54AFFA8DF5B41 /* Ionicons.ttf in Resources */,
+				6BC0C02DA50940429C2226F0 /* MaterialCommunityIcons.ttf in Resources */,
+				AAD324CF34CC4462957146AA /* MaterialIcons.ttf in Resources */,
+				87484F575A5542B4A18AF70A /* Octicons.ttf in Resources */,
+				C88132D2C0304EA5930A1799 /* Poppins-Regular.ttf in Resources */,
+				BDAF2D6228C9403999AD63A4 /* SimpleLineIcons.ttf in Resources */,
+				84643198A96D449F8E55EE06 /* Zocial.ttf in Resources */,
+				5241AF3743DB4B0BADC91BFF /* Poppins-Bold.ttf in Resources */,
+				7ABE4C913F144DFD8FECE7FB /* Poppins-SemiBold.ttf in Resources */,
+				CF975DC4A69D4CC397F80053 /* Poppins-Medium.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -431,7 +535,7 @@
 					"-lc++",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.codinglion..--PRODUCT-NAME-rfc1034identifier-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CinemaSpotApp.app/CinemaSpotApp";
 			};
@@ -455,7 +559,7 @@
 					"-lc++",
 					"$(inherited)",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.codinglion..--PRODUCT-NAME-rfc1034identifier-";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/CinemaSpotApp.app/CinemaSpotApp";
 			};
@@ -467,9 +571,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8QH7H97F5M;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = CinemaSpotApp/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Cinema Spot";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.entertainment";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -480,8 +589,9 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.codinglion.CinemaSpotApp;
 				PRODUCT_NAME = CinemaSpotApp;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
@@ -494,8 +604,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
+				CODE_SIGN_IDENTITY = "Apple Development";
+				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 8QH7H97F5M;
 				INFOPLIST_FILE = CinemaSpotApp/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Cinema Spot";
+				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.entertainment";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -506,8 +621,9 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.codinglion.CinemaSpotApp;
 				PRODUCT_NAME = CinemaSpotApp;
+				PROVISIONING_PROFILE_SPECIFIER = "";
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
 			};
@@ -517,6 +633,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CC = "";
 				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "c++20";
 				CLANG_CXX_LIBRARY = "libc++";
@@ -544,6 +661,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = NO;
+				CXX = "";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
 				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
@@ -563,6 +681,8 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD = "";
+				LDPLUSPLUS = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					/usr/lib/swift,
 					"$(inherited)",
@@ -582,7 +702,10 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
+				OTHER_LDFLAGS = "$(inherited)  ";
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
+				USE_HERMES = true;
 			};
 			name = Debug;
 		};
@@ -590,6 +713,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
+				CC = "";
 				CLANG_ANALYZER_LOCALIZABILITY_NONLOCALIZED = YES;
 				CLANG_CXX_LANGUAGE_STANDARD = "c++20";
 				CLANG_CXX_LIBRARY = "libc++";
@@ -617,6 +741,7 @@
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				COPY_PHASE_STRIP = YES;
+				CXX = "";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				"EXCLUDED_ARCHS[sdk=iphonesimulator*]" = "";
@@ -629,6 +754,8 @@
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 13.4;
+				LD = "";
+				LDPLUSPLUS = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					/usr/lib/swift,
 					"$(inherited)",
@@ -647,7 +774,10 @@
 					"-DFOLLY_CFG_NO_COROUTINES=1",
 					"-DFOLLY_HAVE_CLOCK_GETTIME=1",
 				);
+				OTHER_LDFLAGS = "$(inherited)  ";
+				REACT_NATIVE_PATH = "${PODS_ROOT}/../../node_modules/react-native";
 				SDKROOT = iphoneos;
+				USE_HERMES = true;
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
