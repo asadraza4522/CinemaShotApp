@@ -60,8 +60,6 @@ cd ..
 npx react-native run-ios
 ```
 
-<iframe width="1350" height="497" src="https://www.youtube.com/embed/r0OhCmj4BFg" title="CinemaShot App - Book Movie Tickets &amp; Stay Updated with Upcoming Movies (IOS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 ## Demo Videos
 
 ### Running Demo
