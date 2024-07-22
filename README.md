@@ -60,14 +60,19 @@ cd ..
 npx react-native run-ios
 ```
 
+<iframe width="1350" height="497" src="https://www.youtube.com/embed/r0OhCmj4BFg" title="CinemaShot App - Book Movie Tickets &amp; Stay Updated with Upcoming Movies (IOS)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Demo Videos
 
+### Running Demo
+[![CinemaShot](https://img.youtube.com/vi/Vj_EFbHQT28/hqdefault.jpg)](https://www.youtube.com/watch?v=Vj_EFbHQT28)
+
 ### Android Demo
-[<img src="src/assets/icons/App_Icon.png" width="128"/>](https://drive.google.com/file/d/1LT_Xm6Svj5GxEkt90B7ao3YQjgZnJRHP/view?usp=sharing)
+[![CinemaShot Android](https://img.youtube.com/vi/wlV2W-wAWXk/hqdefault.jpg)](https://www.youtube.com/watch?v=wlV2W-wAWXk)
 
 
 ### iOS Demo
-[<img src="src/assets/icons/App_Icon.png" width="128"/>](https://drive.google.com/file/d/1OMeyMv8iUpZBpeQskfMwse3rHuPPEscA/view?usp=sharing)
+[![CinemaShot IOS](https://img.youtube.com/vi/r0OhCmj4BFg/hqdefault.jpg)](https://www.youtube.com/watch?v=r0OhCmj4BFg)
 
 ## Download the App
 
