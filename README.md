@@ -74,7 +74,7 @@ npx react-native run-ios
 
 ## Download the App
 
-- [Download Android APK](https://drive.google.com/file/d/1iqrzqW1pP8IKvUR5OM0dcP7_m6LBOx94/view?usp=drive_link)
+- [Download Android APK](https://www.mediafire.com/file/zi9mcua9rhphb84/CinemaShotApp.apk/file)
 
 ## Contributors
 [Asad Raza](https://github.com/asadraza4522) - Creator and maintainer
