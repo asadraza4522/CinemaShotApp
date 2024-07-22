@@ -1,5 +1,15 @@
 # CinemaShot App
 
+## Table of Contents
+- [Installation](#installation)
+  - [Prerequisites](#prerequisites)
+  - [Installing Dependencies](#install-dependencies)
+  - [Running the App](#running-the-app)
+- [Demo Videos](#demo-videos)
+- [Downloading the APK](#download-the-app)
+- [Contributors](#contributors)
+- [License](#license)
+
 ## Installation
 
 ### Prerequisites
@@ -17,7 +27,7 @@ git clone https://github.com/asadraza4522/CinemaShot.git
 cd CinemaShot
 ```
 
-### Install dependencies
+### Install Dependencies
 
 Using npm:
 ```bash
@@ -55,12 +65,16 @@ npx react-native run-ios
 ### Android Demo
 [<img src="src/assets/icons/App_Icon.png" width="128"/>](https://drive.google.com/file/d/1LT_Xm6Svj5GxEkt90B7ao3YQjgZnJRHP/view?usp=sharing)
 
+
 ### iOS Demo
 [<img src="src/assets/icons/App_Icon.png" width="128"/>](https://drive.google.com/file/d/1OMeyMv8iUpZBpeQskfMwse3rHuPPEscA/view?usp=sharing)
 
 ## Download the App
 
 - [Download Android APK](https://drive.google.com/file/d/1iqrzqW1pP8IKvUR5OM0dcP7_m6LBOx94/view?usp=drive_link)
+
+## Contributors
+[Asad Raza](https://github.com/asadraza4522) - Creator and maintainer
 
 ## License
 
