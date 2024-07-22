@@ -53,10 +53,10 @@ npx react-native run-ios
 ## Demo Videos
 
 ### Android Demo
-[![Watch the demo](https://img.youtube.com/vi/YOUR_ANDROID_VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1LT_Xm6Svj5GxEkt90B7ao3YQjgZnJRHP/view?usp=sharing)
+[![Watch the demo](https://drive.google.com/file/d/1RTxzW8RfNaWQ9wCOcwHygVZc-bwJ6iaQ/view?usp=sharing)](https://drive.google.com/file/d/1LT_Xm6Svj5GxEkt90B7ao3YQjgZnJRHP/view?usp=sharing)
 
 ### iOS Demo
-[![Watch the demo](https://img.youtube.com/vi/YOUR_IOS_VIDEO_ID/0.jpg)](https://drive.google.com/file/d/1OMeyMv8iUpZBpeQskfMwse3rHuPPEscA/view?usp=sharing)
+[![Watch the demo](https://drive.google.com/file/d/1RTxzW8RfNaWQ9wCOcwHygVZc-bwJ6iaQ/view?usp=sharing)](https://drive.google.com/file/d/1OMeyMv8iUpZBpeQskfMwse3rHuPPEscA/view?usp=sharing)
 
 ## Download the App
 
