@@ -63,14 +63,23 @@ npx react-native run-ios
 ## Demo Videos
 
 ### Running Demo
-[![CinemaShot](https://img.youtube.com/vi/Vj_EFbHQT28/hqdefault.jpg)](https://www.youtube.com/watch?v=Vj_EFbHQT28)
+
+https://github.com/user-attachments/assets/4a0767f4-a927-4533-8eb6-ecc66d2020ed
+
+[CinemaShot Coding Demo on YouTube](https://www.youtube.com/watch?v=Vj_EFbHQT28)
 
 ### Android Demo
-[![CinemaShot Android](https://img.youtube.com/vi/wlV2W-wAWXk/hqdefault.jpg)](https://www.youtube.com/watch?v=wlV2W-wAWXk)
+
+https://github.com/user-attachments/assets/3a173fbb-44f2-4184-9175-5fb536cb882b
+
+[CinemaShot Android on YouTube](https://www.youtube.com/watch?v=wlV2W-wAWXk)
 
 
 ### iOS Demo
-[![CinemaShot IOS](https://img.youtube.com/vi/r0OhCmj4BFg/hqdefault.jpg)](https://www.youtube.com/watch?v=r0OhCmj4BFg)
+
+https://github.com/user-attachments/assets/6bbd9859-70be-4e67-b35e-a8e123b1d8f0
+
+[CinemaShot IOS on YouTube](https://www.youtube.com/watch?v=r0OhCmj4BFg)
 
 ## Download the App
 
